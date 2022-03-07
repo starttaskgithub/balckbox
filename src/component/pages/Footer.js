@@ -13,6 +13,7 @@ function Footer() {
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
           Join the Adventure newsletter to receive our best vacation deals
+          my new changes
         </p>
         <p className='footer-subscription-text'>
           You can unsubscribe at any time.
